@@ -1,0 +1,1 @@
+//write a program to fetch comments data from javascript public api and display it in console.
